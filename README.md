@@ -67,5 +67,5 @@ Currently exploring how to balance LLM autonomy with deterministic system behavi
 ---
 ## 🔹 Links
 
-- [PDF RAG Chatbot](https://github.com/swalinimore/pdf-rag-chatbot-v1)  
-- [Agentic RAG Chatbot](https://github.com/swalinimore/agentic-rag-chatbot)
+- [PDF RAG Chatbot](https://github.com/swalinimarym/pdf-rag-chatbot-v1)  
+- [Agentic RAG Chatbot](https://github.com/swalinimarym/agentic-rag-chatbot)
